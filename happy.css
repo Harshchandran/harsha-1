@@ -500,6 +500,13 @@ input[type=file]::file-selector-button:hover {
     position: relative;
 }
 
+.hero1 {
+    font-size: 3.4rem;
+}
+.hero {
+    font-size: 2.4rem;
+}
+
 .Content {
     grid-area: cont;
     display: flex;
